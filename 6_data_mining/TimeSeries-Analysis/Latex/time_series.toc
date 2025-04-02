@@ -1,0 +1,22 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Objetivo}{2}{section.1}%
+\contentsline {section}{\numberline {2}Importación, Exploración y Limpieza de los Datos}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}División en Conjuntos de Entrenamiento y Prueba}{3}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Análisis de Estacionalidad}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Descomposición de la Serie Temporal}{3}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Selección del Modelo de Suavizado}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Modelo Holt-Winters}{5}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Errores del Modelo}{5}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Transformación Logarítmica}{6}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Errores del Modelo de Transformación Logarítmica}{7}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Evaluación y Corrección de Estacionariedad}{7}{section.5}%
+\contentsline {section}{\numberline {6}Autocorrelación}{8}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Serie Diferencia Orden 1}{9}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Serie Diferenciada Orden 7}{10}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Autocorrelación de la Serie Diferenciada de Orden 7}{11}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Modelo SARIMAX}{12}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Validación del Modelo}{13}{subsection.7.1}%
+\contentsline {section}{\numberline {8}Modelo ARIMA Auto}{14}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Validación}{16}{subsection.8.1}%
+\contentsline {section}{\numberline {9}Conclusion}{17}{section.9}%
+\contentsline {section}{\numberline {10}Bibliografia}{18}{section.10}%

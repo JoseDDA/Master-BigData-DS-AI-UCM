@@ -1,0 +1,387 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.17)  19 MAR 2025 23:03
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./portada.tex
+(portada.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.4 	{\bfseries\LARGE
+                      Universidad Complutense de Madrid\par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 	{\bfseries\LARGE U
+                       niversidad Complutense de Madrid\par}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (60.28577pt too wide) in paragraph at lines 4--4
+ []\OT1/cmr/bx/n/10 Universidad 
+ []
+
+
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 4--4
+ \OT1/cmr/bx/n/10 Com- 
+ []
+
+
+Overfull \hbox (41.91089pt too wide) in paragraph at lines 4--4
+ \OT1/cmr/bx/n/10 plutense 
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 4--4
+ \OT1/cmr/bx/n/10 de 
+ []
+
+
+Overfull \hbox (37.21507pt too wide) in paragraph at lines 4--4
+ \OT1/cmr/bx/n/10 Madrid 
+ []
+
+! Undefined control sequence.
+l.6 	{\scshape\Large
+                     Máster en Big Data Data Science \& Inteligencia Artifi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 	{\scshape\Large M
+                      áster en Big Data Data Science \& Inteligencia Artifi...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (38.11087pt too wide) in paragraph at lines 6--6
+ []\OT1/cmr/m/sc/10 M[]aster 
+ []
+
+
+Overfull \hbox (11.71106pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 en 
+ []
+
+
+Overfull \hbox (17.14153pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 Big 
+ []
+
+
+Overfull \hbox (24.84425pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 Data 
+ []
+
+
+Overfull \hbox (24.84425pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 Data 
+ []
+
+
+Overfull \hbox (18.82205pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 Sci- 
+ []
+
+
+Overfull \hbox (23.19987pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 ence 
+ []
+
+
+Overfull \hbox (8.44437pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 & 
+ []
+
+
+Overfull \hbox (13.96655pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 In- 
+ []
+
+
+Overfull \hbox (41.54419pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 teligen- 
+ []
+
+
+Overfull \hbox (15.06659pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 cia 
+ []
+
+
+Overfull \hbox (17.93875pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 Ar- 
+ []
+
+
+Overfull \hbox (12.71101pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 ti- 
+ []
+
+
+Overfull \hbox (12.15549pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 fi- 
+ []
+
+
+Overfull \hbox (20.19989pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 cial 
+ []
+
+! Undefined control sequence.
+l.8 	{\scshape\Huge
+                    Minería de datos y Modelización Predictiva: Series Tem...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 	{\scshape\Huge M
+                     inería de datos y Modelización Predictiva: Series Tem...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (39.79976pt too wide) in paragraph at lines 8--8
+ []\OT1/cmr/m/sc/10 Miner[]^^Pa 
+ []
+
+
+Overfull \hbox (11.82217pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 de 
+ []
+
+
+Overfull \hbox (28.33319pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 datos 
+ []
+
+
+Overfull \hbox (6.13332pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 y 
+ []
+
+
+Overfull \hbox (26.26648pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 Mod- 
+ []
+
+
+Overfull \hbox (46.08865pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 elizaci[]on 
+ []
+
+
+Overfull \hbox (22.79427pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 Pre- 
+ []
+
+
+Overfull \hbox (18.95544pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 dic- 
+ []
+
+
+Overfull \hbox (23.50542pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 tiva: 
+ []
+
+
+Overfull \hbox (15.46652pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 Se- 
+ []
+
+
+Overfull \hbox (19.1999pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 ries 
+ []
+
+
+Overfull \hbox (24.68315pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 Tem- 
+ []
+
+
+Overfull \hbox (15.71101pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 po- 
+ []
+
+
+Overfull \hbox (27.44432pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 rales 
+ []
+
+! Undefined control sequence.
+l.12 	{\Large
+              Autor: \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 	{\Large A
+               utor: \par}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.13 	{\Large
+              José D'Orazio \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 	{\Large J
+               osé D'Orazio \par}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no J in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+LaTeX Font Info:    Trying to load font information for +cmr on input line 13.
+LaTeX Font Info:    No file cmr.fd. on input line 13.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 13.
+
+! Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.13 	{\Large José
+                    D'Orazio \par}
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 13.
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 13--13
+ []\/cmr/m/n/10 ^^Se 
+ []
+
+! Undefined control sequence.
+l.15 	{\Large
+              \today \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 	{\Large \today
+                     \par}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ./portada.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 38 strings out of 473530
+ 699 string characters out of 5714794
+ 392471 words of memory out of 5000000
+ 23362 multiletter control sequences out of 15000+600000
+ 559446 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,1n,32p,134b,115s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
